@@ -1,15 +1,19 @@
 <template>
   <div>
       <home-header></home-header>
+      <home-footer></home-footer>
   </div>
 </template>
 
 <script>
 import HomeHeader from '../components/Header.vue';
+import HomeFooter from '../components/Footer.vue';
+
 export default {
   name: "Cart",
   components: {
-    HomeHeader
+    HomeHeader,
+    HomeFooter
   }
 };
 </script>

@@ -1,14 +1,18 @@
 <template>
-  <div>
+  <div class="footer">
+    <div>
+      <span>渡与生</span>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld"
+  name: "HomeFooter"
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="stylus">
+  .footer
+    background #f5f7fc
 </style>
