@@ -1,12 +1,16 @@
 <template>
   <div>
-      this is cart
+      <home-header></home-header>
   </div>
 </template>
 
 <script>
+import HomeHeader from '../components/Header.vue';
 export default {
-  name: "HelloWorld"
+  name: "Cart",
+  components: {
+    HomeHeader
+  }
 };
 </script>
 
