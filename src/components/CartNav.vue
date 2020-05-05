@@ -17,13 +17,12 @@ export default {
   .nav
     background #f0f0f0
     width 100%
-    overflow hidden
     .container
       height 40px
-      display absolute
-      left 0
-      margin-left 50px
       font-size 14px
+      width 200px
+      margin-left 55px
+      height 40px
       a
         line-height 40px
         color #999
