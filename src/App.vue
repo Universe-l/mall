@@ -4,6 +4,4 @@
   </div>
 </template>
 
-<style lang="stylus">
-
-</style>
+<style lang="stylus"></style>

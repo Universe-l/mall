@@ -13,6 +13,6 @@ export default {
 </script>
 
 <style scoped lang="stylus">
-  .footer
-    background #f5f7fc
+.footer
+  background #f5f7fc
 </style>

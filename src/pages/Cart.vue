@@ -25,6 +25,6 @@ export default {
 </script>
 
 <style scoped lang="stylus">
-  *
-    background #f5f7fc
+body
+  background #f5f7fc
 </style>
