@@ -4,47 +4,45 @@
       <div class="page-tittle">
         <h2>我的购物车</h2>
       </div>
-      <div>
-        <table>
-          <thead>
-            <tr>
-              <td></td>
-              <td>商品信息</td>
-              <td>商品金额</td>
-              <td>商品数量</td>
-              <td>总金额</td>
-              <td>编辑</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-                <button></button>
-              </td>
-              <td>
-                <div class="info">
-                  <div class="info-img">
-                    <img src="../assets/imgs/1.jpg" />
-                  </div>
-                  <div class="info-title">
-                    <span>小度人工智能音箱</span>
-                  </div>
+      <table>
+        <thead>
+          <tr>
+            <td></td>
+            <td>商品信息</td>
+            <td>商品金额</td>
+            <td>商品数量</td>
+            <td>总金额</td>
+            <td>编辑</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <button></button>
+            </td>
+            <td>
+              <div class="info">
+                <div class="info-img">
+                  <img src="../assets/imgs/1.jpg" />
                 </div>
-              </td>
-              <td class="td">89</td>
-              <td class="td">
-                <button>-</button>
-                <span>1</span>
-                <button>+</button>
-              </td>
-              <td class="td">89</td>
-              <td class="td">
-                <button>删除</button>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+                <div class="info-title">
+                  <span>小度人工智能音箱</span>
+                </div>
+              </div>
+            </td>
+            <td class="td">89</td>
+            <td class="td">
+              <button>-</button>
+              <span>1</span>
+              <button>+</button>
+            </td>
+            <td class="td">89</td>
+            <td class="td">
+              <button>删除</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
       <div class="result">
         <div class="result-left">
           <button></button>
